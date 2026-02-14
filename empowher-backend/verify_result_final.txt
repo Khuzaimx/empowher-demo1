@@ -1,0 +1,14 @@
+🔍 Starting Demo Flow Verification...
+1. Logging in as Sarah...
+   ✓ Logged in via sarah.demo@empowher.com (ID: b6e62d82-8990-4ece-80d0-8490ae760990)
+
+2. Performing Check-in...
+   ✓ Check-in processed. Level: yellow
+   ⚠️ No course recommended (unexpected for demo flow?)
+
+3. Fetching Demo Story...
+   ✓ Story retrieved for persona: Sarah
+   ✓ Journey phases: 3
+   ✓ Recent insights: 5
+
+✅ DEMO FLOW VERIFIED SUCCESSFULLY!

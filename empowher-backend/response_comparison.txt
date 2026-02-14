@@ -1,0 +1,11 @@
+--- DISTRESS RESPONSE ---
+Insights: undefined
+Encouragement: undefined
+
+--- THRIVING RESPONSE ---
+Insights: [
+  "We are having trouble analyzing your check-in, but we are here for you."
+]
+Encouragement: Take a deep breath. We are logging this issue.
+
+SUCCESS: Responses are different.

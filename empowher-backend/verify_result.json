@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "insights": [
+    "I hear how difficult things are for you right now.",
+    "Your feelings are valid, and you don't have to go through this alone."
+  ],
+  "encouragement": "Please be gentle with yourself today. You are doing the best you can.",
+  "outputData": {
+    "phq2Score": 6,
+    "gad2Score": 6,
+    "who5Score": 0
+  }
+}
